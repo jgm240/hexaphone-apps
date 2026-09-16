@@ -1,0 +1,76 @@
+{
+  "presets": [
+    {
+      "id": "amber-calm",
+      "displayName": "Amber \u2014 Calm",
+      "color": "amber",
+      "speed": "calm",
+      "file": "amber-calm.zip",
+      "sha256": "ad9644a515caaed2ceeb1ad2e144384c3a8652b7485499e8b864477c5eba701d",
+      "sizeBytes": 10120925
+    },
+    {
+      "id": "amber-brisk",
+      "displayName": "Amber \u2014 Brisk",
+      "color": "amber",
+      "speed": "brisk",
+      "file": "amber-brisk.zip",
+      "sha256": "e28d462d7ec3fda5b56dc57f98ac3832325753dc431f26e65071cbd2f26a059a",
+      "sizeBytes": 10122756
+    },
+    {
+      "id": "cyan-calm",
+      "displayName": "Cyan \u2014 Calm",
+      "color": "cyan",
+      "speed": "calm",
+      "file": "cyan-calm.zip",
+      "sha256": "5410448738a47b86c0ffb7b056a6fe5a852e7744c10c74152bd738cff04d5082",
+      "sizeBytes": 10085029
+    },
+    {
+      "id": "cyan-brisk",
+      "displayName": "Cyan \u2014 Brisk",
+      "color": "cyan",
+      "speed": "brisk",
+      "file": "cyan-brisk.zip",
+      "sha256": "983ff2c948b9750c7694b6a8dfb268b97ac662f5281c4d90dc1f174318d9af51",
+      "sizeBytes": 10084950
+    },
+    {
+      "id": "magenta-calm",
+      "displayName": "Magenta \u2014 Calm",
+      "color": "magenta",
+      "speed": "calm",
+      "file": "magenta-calm.zip",
+      "sha256": "60829a75503a9e440c4075adc4f113f203d6b89ebcf9a3b40426c602af9ee551",
+      "sizeBytes": 11143231
+    },
+    {
+      "id": "magenta-brisk",
+      "displayName": "Magenta \u2014 Brisk",
+      "color": "magenta",
+      "speed": "brisk",
+      "file": "magenta-brisk.zip",
+      "sha256": "70cbfe400d35c091e082e998f58b721256ff4742f098bac798061ffc7a4cdd78",
+      "sizeBytes": 11144735
+    },
+    {
+      "id": "emerald-calm",
+      "displayName": "Emerald \u2014 Calm",
+      "color": "emerald",
+      "speed": "calm",
+      "file": "emerald-calm.zip",
+      "sha256": "d768eed51a8bd0b83e5544568e40eca9eb0c18fd9b0f6b25b54c853774c1faf8",
+      "sizeBytes": 9685202
+    },
+    {
+      "id": "emerald-brisk",
+      "displayName": "Emerald \u2014 Brisk",
+      "color": "emerald",
+      "speed": "brisk",
+      "file": "emerald-brisk.zip",
+      "sha256": "dfdadd97b2f60ec6b6a959ad25f7ffe3e2a3e267658bcd247485c719c5a264aa",
+      "sizeBytes": 9686570
+    }
+  ]
+}
