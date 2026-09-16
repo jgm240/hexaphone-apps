@@ -35,8 +35,8 @@
       "displayName": "Hexaphone Updater",
       "description": "Install or downgrade to any released Hexaphone version.",
       "packageName": "org.hexaphone.updater",
-      "sha256": "8a60101066b38ca505432bb144741a996ce65116ea409ba5059e66cfe249104e",
-      "sizeBytes": 29478,
+      "sha256": "5e229cbb23b133dbc3287e73e661bb811e0d30c6c23708b0668014117d132053",
+      "sizeBytes": 33574,
       "downloadUrl": "https://raw.githubusercontent.com/jgm240/hexaphone-apps/main/updater-app/HexaphoneUpdater.apk",
       "available": true
     },
