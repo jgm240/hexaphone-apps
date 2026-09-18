@@ -1,16 +1,6 @@
 {
   "apps": [
     {
-      "id": "duckduckgo",
-      "displayName": "DuckDuckGo Browser",
-      "description": "Privacy-focused browser. There's no preinstalled browser on Hexaphone.",
-      "packageName": "com.duckduckgo.mobile.android",
-      "sha256": "126f79deacb7a7b087e3d085d971fb04e958afc1918a5838831f8f00f42694b8",
-      "sizeBytes": 176062923,
-      "downloadUrl": "https://f-droid.org/repo/com.duckduckgo.mobile.android_52921000.apk",
-      "available": true
-    },
-    {
       "id": "fdroid",
       "displayName": "F-Droid",
       "description": "Catalog of free & open-source Android apps.",
